@@ -6,6 +6,7 @@ You should be noted that in the future, this system will be expanded to a larger
 Please search for "dynamic memory allocation" and "data structures" as a first step.
 
 Create a simulator that can perform the following tasks.
+
 [1] A menu list is displayed, and the user is asked to enter the item number to be purchased from the list. When the user selects a menu item, the system keeps asking the user to select it until an existing item number is entered. The number of items in stock is finite, and if the item is not in stock, the system displays the message "sold out" and stops selling it.
 
 [2] The system will ask the user to repeatedly enter the amount of money to be paid until it exceeds the price of the product. Six types of money can be used for input:
